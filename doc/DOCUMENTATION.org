@@ -1,11 +1,7 @@
 #+TITLE: Spacemacs documentation
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="../css/readtheorg.css" />
 
-
-
- 
-
- - [[Core Pillars][Core Pillars]]
+ - [[Core Pillars][CorePillars]]
    - [[Mnemonic][Mnemonic]]
    - [[Discoverable][Discoverable]]
    - [[Consistent][Consistent]]
